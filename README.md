@@ -1,45 +1,48 @@
-
-###
-<h3 align="left" >👋🏼  Welcome to my Profile</h3>
-
-<h3 align="left">👩‍💻  About Me</h3>
-<h3 align="left">👤  My Portfolio 🔗 : https://mahdi-portfolio-blush.vercel.app/</h3>
-
-###
-
-<p align="left">- I'm Mahdi, 📚 a computer science student from Tunisia 🇹🇳.<br>- I’m passionate about coding, problem-solving, and building real-world applications.<br>- Currently focusing on C++, and JavaScript.<br>-->   Always learning, always improving 🚀</p>
-
+# 👋 Welcome to My Profile
 
 <div align="center">
-  <a href="www.linkedin.com/in/mahdi-chaabani" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFD842&width=478&lines=Hi+I'm+Mahdi+Chaabani+;Business+Computing+Student+;MERN+Full+Stack+Developer+;Problem+Solver)](https://git.io/typing-svg)
 </div>
 
-###
+## 👨‍💻 About Me
 
-<h3 align="left">🛠 Language and tools</h3>
+I'm a **Computer Science Student** from Tunisia 🇹🇳, passionate about building web applications and solving complex problems through code.
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="12" />
+- 🎓 Studying Computer Science
+- 💻 Currently working on **full-stack web applications** using the MERN stack
+- 🌱 Learning advanced **algorithms and data structures** with C++
+- 🚀 Always improving and exploring new technologies
+- 🌍 Based in Tunis, Tunisia
+  <div align="center">
+  ## 📫 How to Reach Me
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahdi-portfolio-blush.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-chaabani)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdira201909@gmail.com)
 </div>
+## 🛠️ Technologies & Tools
 
+**Languages:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+
+**Database:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
