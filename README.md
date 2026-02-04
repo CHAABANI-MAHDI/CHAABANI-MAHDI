@@ -1,26 +1,26 @@
 # 👋 Welcome to My Profile
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFD842&width=478&lines=Hi+I'm+Mahdi+Chaabani+;Business+Computing+Student+;MERN+Full+Stack+Developer+;Problem+Solver)](https://git.io/typing-svg)
-</div>
 
+    
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mono&size=25&pause=1000&color=FFD842&width=478&heigth=5&lines=Hi+I'm+Mahdi+Chaabani+;Business+Computing+Student+;MERN+Full+Stack+Developer+;Problem+Solver)](https://git.io/typing-svg)
+</div>
 ## 👨‍💻 About Me
 
-I'm a **Computer Science Student** from Tunisia 🇹🇳, passionate about building web applications and solving complex problems through code.
+I'm a **Business Computing Student** from Tunisia 🇹🇳, passionate about building web applications and solving  problems through code.
 
 - 🎓 Studying Computer Science
 - 💻 Currently working on **full-stack web applications** using the MERN stack
 - 🌱 Learning advanced **algorithms and data structures** with C++
 - 🚀 Always improving and exploring new technologies
 - 🌍 Based in Tunis, Tunisia
-  <div align="center">
-  ## 📫 How to Reach Me
+
+ # 📫 How to Reach Me
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahdi-portfolio-blush.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-chaabani)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdira201909@gmail.com)
-</div>
+
 ## 🛠️ Technologies & Tools
 
 **Languages:**  
