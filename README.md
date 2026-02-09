@@ -9,7 +9,6 @@
 
 I'm a **Business Computing Student** from Tunisia 🇹🇳, passionate about building web applications and solving  problems through code.
 
-- 🎓 Studying Computer Science
 - 💻 Currently working on **full-stack web applications** using the MERN stack
 - 🌱 Learning advanced **algorithms and data structures** with C++
 - 🚀 Always improving and exploring new technologies
